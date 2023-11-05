@@ -13,6 +13,7 @@
 		1D2C4EF62AF7832500E160A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D2C4EF52AF7832500E160A6 /* Preview Assets.xcassets */; };
 		1D2C4EFD2AF7889E00E160A6 /* DifferentiateWithoutColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2C4EFC2AF7889E00E160A6 /* DifferentiateWithoutColorView.swift */; };
 		1D2C4EFF2AF7982500E160A6 /* ReduceMotionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2C4EFE2AF7982500E160A6 /* ReduceMotionView.swift */; };
+		1D2C4F012AF79D7000E160A6 /* ReduceTransparencyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2C4F002AF79D7000E160A6 /* ReduceTransparencyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		1D2C4EF52AF7832500E160A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D2C4EFC2AF7889E00E160A6 /* DifferentiateWithoutColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferentiateWithoutColorView.swift; sourceTree = "<group>"; };
 		1D2C4EFE2AF7982500E160A6 /* ReduceMotionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMotionView.swift; sourceTree = "<group>"; };
+		1D2C4F002AF79D7000E160A6 /* ReduceTransparencyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceTransparencyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1D2C4EF02AF7832400E160A6 /* HomeView.swift */,
 				1D2C4EFC2AF7889E00E160A6 /* DifferentiateWithoutColorView.swift */,
 				1D2C4EFE2AF7982500E160A6 /* ReduceMotionView.swift */,
+				1D2C4F002AF79D7000E160A6 /* ReduceTransparencyView.swift */,
 				1D2C4EF22AF7832500E160A6 /* Assets.xcassets */,
 				1D2C4EF42AF7832500E160A6 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				1D2C4EFD2AF7889E00E160A6 /* DifferentiateWithoutColorView.swift in Sources */,
 				1D2C4EF12AF7832400E160A6 /* HomeView.swift in Sources */,
+				1D2C4F012AF79D7000E160A6 /* ReduceTransparencyView.swift in Sources */,
 				1D2C4EFF2AF7982500E160A6 /* ReduceMotionView.swift in Sources */,
 				1D2C4EEF2AF7832400E160A6 /* AccessibilityModifiersApp.swift in Sources */,
 			);
