@@ -12,12 +12,14 @@ struct HomeView: View {
     
     let viewTitle = [
         "Differentiate Without Color",
-        "Reduce Motion"
+        "Reduce Motion",
+        "Reduce Transparency"
     ]
     
     let viewList: [AnyView] = [
         AnyView(DifferentiateWithoutColorView()),
-        AnyView(ReduceMotionView())
+        AnyView(ReduceMotionView()),
+        AnyView(ReduceTransparencyView()),
     ]
     
     var body: some View {
