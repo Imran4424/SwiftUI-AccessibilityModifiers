@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D2C4EEF2AF7832400E160A6 /* AccessibilityModifiersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2C4EEE2AF7832400E160A6 /* AccessibilityModifiersApp.swift */; };
-		1D2C4EF12AF7832400E160A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2C4EF02AF7832400E160A6 /* ContentView.swift */; };
+		1D2C4EF12AF7832400E160A6 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2C4EF02AF7832400E160A6 /* HomeView.swift */; };
 		1D2C4EF32AF7832500E160A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D2C4EF22AF7832500E160A6 /* Assets.xcassets */; };
 		1D2C4EF62AF7832500E160A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D2C4EF52AF7832500E160A6 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		1D2C4EEB2AF7832400E160A6 /* AccessibilityModifiers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AccessibilityModifiers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D2C4EEE2AF7832400E160A6 /* AccessibilityModifiersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityModifiersApp.swift; sourceTree = "<group>"; };
-		1D2C4EF02AF7832400E160A6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1D2C4EF02AF7832400E160A6 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		1D2C4EF22AF7832500E160A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D2C4EF52AF7832500E160A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				1D2C4EEE2AF7832400E160A6 /* AccessibilityModifiersApp.swift */,
-				1D2C4EF02AF7832400E160A6 /* ContentView.swift */,
+				1D2C4EF02AF7832400E160A6 /* HomeView.swift */,
 				1D2C4EF22AF7832500E160A6 /* Assets.xcassets */,
 				1D2C4EF42AF7832500E160A6 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D2C4EF12AF7832400E160A6 /* ContentView.swift in Sources */,
+				1D2C4EF12AF7832400E160A6 /* HomeView.swift in Sources */,
 				1D2C4EEF2AF7832400E160A6 /* AccessibilityModifiersApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
