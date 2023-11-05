@@ -20,6 +20,7 @@ struct DifferentiateWithoutColorView: View {
         }
         .padding()
         .background(differentiateWithoutColor ? .black : .green)
+        .foregroundColor(.white)
         .clipShape(Capsule())
     }
 }
